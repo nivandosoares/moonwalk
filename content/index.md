@@ -1,4 +1,4 @@
 ## markdown content index.md here
 
 
-*** Pinto cu bosta mijo ***
+**Pinto cu bosta mijo**
