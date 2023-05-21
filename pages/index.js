@@ -7,7 +7,7 @@ import ReactMarkdown from 'react-markdown';
 import Layout from './Layout';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import styles from './HomePage.module.css';
+import styles from '../styles/HomePage.module.css';
 
 function HomePage({ content }) {
   const router = useRouter();
