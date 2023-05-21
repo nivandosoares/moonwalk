@@ -30,15 +30,15 @@ function HomePage({ content }) {
 }
 
 export async function getStaticProps() {
-  const filePath = 'content/index.md';
+  const filePath = 'posts/index.md';
   const fileContents = fs.readFileSync(filePath, 'utf8');
   const { content } = matter(fileContents, { excerpt: false });
 
-  const postsDirectory = 'content';
+  const postsDirectory = 'posts';
   const postFilenames = fs.readdirSync(postsDirectory);
 
   const posts = postFilenames.map((filename) => {
-    const postFilePath = `content/${filename}`;
+    const postFilePath = `posts/${filename}`;
     const postFileContents = fs.readFileSync(postFilePath, 'utf8');
     const { data } = matter(postFileContents);
 

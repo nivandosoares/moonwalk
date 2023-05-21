@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 
 export default function handler(req, res) {
-  const postsDirectory = path.join(process.cwd(), 'content');
+  const postsDirectory = path.join(process.cwd(), 'posts');
   const fileNames = fs.readdirSync(postsDirectory);
 
   const posts = fileNames.map((fileName) => {

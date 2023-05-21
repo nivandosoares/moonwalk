@@ -28,7 +28,24 @@ const Layout = ({ children }) => {
     ? `${styles.navItem} ${styles.darkTheme}`
     : styles.navItem;
 
-  return <main className={styles.content}>{children}</main>;
+  return (
+    <div className={containerClassName}>
+      <nav className={sidebarClassName}>
+        <ul className={styles.navList}>
+          <li className={navItemClassName}>
+            <Link href="/">Homepage</Link>
+          </li>
+          {navLinks.map((link) => (
+            <li className={navItemClassName} key={link.slug}>
+              <Link href={`/${link.slug}`}>{link.slug}</Link>
+            </li>
+          ))}
+        </ul>
+      </nav>
+
+      <main className={styles.content}>{children}</main>
+    </div>
+  );
 };
 
 export default Layout;

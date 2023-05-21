@@ -20,7 +20,7 @@ export default function Post({ content, data }) {
 }
 
 export async function getStaticPaths() {
-  const postsDirectory = path.join(process.cwd(), "content");
+  const postsDirectory = path.join(process.cwd(), "posts");
   const filenames = fs.readdirSync(postsDirectory);
 
   const paths = filenames.map((filename) => ({
@@ -35,7 +35,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   const { slug } = params;
-  const filePath = path.join(process.cwd(), "content", `${slug}.md`);
+  const filePath = path.join(process.cwd(), "posts", `${slug}.md`);
   const fileContents = fs.readFileSync(filePath, "utf8");
   const { content, data } = matter(fileContents);
 
