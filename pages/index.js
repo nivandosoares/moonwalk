@@ -4,22 +4,6 @@ import path from "path";
 import { unified } from "unified";
 import remarkParse from "remark-parse";
 import remarkHtml from "remark-html";
-import Card from "/pages/Card";
-
-const cards = [
-  {
-    title: 'Card 1',
-    description: 'Descrição do Card 1',
-    link: '/about.md',
-  },
-  {
-    title: 'Card 2',
-    description: 'Descrição do Card 2',
-    link: '/projects.md',
-  },
-  // Adicione mais objetos para mais cards, se necessário
-];
-
 export default function Home({ content }) {
   const [theme, setTheme] = useState("light");
 
