@@ -8,11 +8,13 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: large;
+  margin: 0;
 }
+
 
 /* Tema claro */
 body.light {
-  background-color: #ffffff;
+  background-color: rgb(255, 255, 255);
   color: #000000;
 }
 
@@ -93,3 +95,31 @@ a{
   color: #ffffff;
 }
 
+
+.post-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: calc(100vh - 2rem); /* Ajuste o valor da margem superior conforme necessário */
+}
+
+.back-button {
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  background-color: blue;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.back-button:hover {
+  background-color: darkblue;
+}
+
+.back-button:focus {
+  outline: none;
+}
