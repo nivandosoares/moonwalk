@@ -32,12 +32,10 @@ const Layout = ({ children }) => {
     <div className={containerClassName}>
       <nav className={sidebarClassName}>
         <ul className={styles.navList}>
-          <li className={navItemClassName}>
-            <Link href="/">Homepage</Link>
-          </li>
+          
           {navLinks.map((link) => (
             <li className={navItemClassName} key={link.slug}>
-              <Link href={`/${link.slug}`}>{link.slug}</Link>
+              <Link href={`/posts/${link.slug}`}>{link.slug}</Link>
             </li>
           ))}
         </ul>
