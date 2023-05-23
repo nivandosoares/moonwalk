@@ -17,12 +17,11 @@ function HomePage({ content, posts }) {
   };
 
   return (
- 
-        <div className={styles.content}>
-          <ReactMarkdown>{content}</ReactMarkdown>
-        </div>
-        
-     
+    <Layout>
+      <div className={styles.content}>
+        <ReactMarkdown>{content}</ReactMarkdown>
+      </div>
+    </Layout>
   );
 }
 

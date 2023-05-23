@@ -1,4 +1,3 @@
-/* Layout.js */
 import React, { useContext, useState, useEffect } from "react";
 import styles from "../styles/Layout.module.css";
 import Link from "next/link";
@@ -7,6 +6,7 @@ import ThemeContext from "../ThemeContext";
 const Layout = ({ children }) => {
   const { darkTheme } = useContext(ThemeContext);
   const [navLinks, setNavLinks] = useState([]);
+  const [isMobile, setIsMobile] = useState(false);
 
   useEffect(() => {
     const fetchNavLinks = async () => {
@@ -16,6 +16,14 @@ const Layout = ({ children }) => {
     };
 
     fetchNavLinks();
+
+    const handleResize = () => {
+      setIsMobile(window.innerWidth <= 768);
+    };
+
+    handleResize();
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
   }, []);
 
   const containerClassName = darkTheme
@@ -30,9 +38,8 @@ const Layout = ({ children }) => {
 
   return (
     <div className={containerClassName}>
-      <nav className={sidebarClassName}>
+      <nav className={`${sidebarClassName} ${isMobile ? styles.mobileNavbar : styles.horizontal}`}>
         <ul className={styles.navList}>
-          
           {navLinks.map((link) => (
             <li className={navItemClassName} key={link.slug}>
               <Link href={`/posts/${link.slug}`}>{link.slug}</Link>
