@@ -1,47 +1,67 @@
 import React, { useContext, useState, useEffect } from "react";
-import styles from "../styles/Layout.module.css";
-import Link from "next/link";
 import ThemeContext from "../ThemeContext";
+import Nav from "react-bootstrap/Nav";
+import Navbar from "react-bootstrap/Navbar";
 
 const Layout = ({ children }) => {
   const { darkTheme } = useContext(ThemeContext);
   const [navLinks, setNavLinks] = useState([]);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const fetchNavLinks = async () => {
       const response = await fetch("/api/posts");
       const posts = await response.json();
       setNavLinks(posts);
+      setLoading(false);
     };
 
     fetchNavLinks();
   }, []);
 
-  const sidebarClassName = darkTheme
-    ? `${styles.sidebar} ${styles.customSidebarDark}`
-    : `${styles.sidebar} ${styles.customSidebar}`;
-
   return (
-    <div className={`container-fluid ${styles.container} {$styles.content}`}>
-      <div className={`row justify-content-center align-items-start`}>
-        {/* Sidebar */}
-        <nav className={`col-lg-2 ${sidebarClassName}`}>
-          <div className="sidebar-heading">Sidebar</div>
-          <ul className={`nav flex-column ${styles.navList}`}>
-            {navLinks.map((link) => (
-              <li className={`nav-item ${styles.navItem}`} key={link.slug}>
-                <Link href={`/posts/${link.slug}`} className={`nav-link ${styles.navLink}`}>
+    <>
+      <Navbar
+        collapseOnSelect
+        expand="lg"
+        bg="dark"
+        variant="dark"
+        fixed="top"
+        style={{ height: "60px" }}
+      >
+        <Navbar.Toggle
+          aria-controls="responsive-navbar-nav"
+          className="ml-auto"
+        />
+        <Navbar.Collapse id="responsive-navbar-nav">
+          <Nav className="mr-auto justify-content-center">
+            {loading ? (
+              <p>Loading...</p>
+            ) : (
+              navLinks.map((link) => (
+                <Nav.Link href={`/posts/${link.slug}`} key={link.slug}>
                   {link.slug}
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </nav>
-
-        {/* Conteúdo */}
-        <main className={`col-lg-10 ${styles.content}`}>{children}</main>
+                </Nav.Link>
+              ))
+            )}
+          </Nav>
+        </Navbar.Collapse>
+      </Navbar>
+      <div
+        className={`d-flex align-items-center mt-5 `}
+        style={{ marginTop: "60px" }}
+      >
+        {loading ? (
+          <p>Loading...</p>
+        ) : (
+          <main
+            className={`col-lg-10 d-flex justify-content-center align-items-center`}
+          >
+            {children}
+          </main>
+        )}
       </div>
-    </div>
+    </>
   );
 };
 
