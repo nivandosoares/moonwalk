@@ -21,29 +21,15 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <Navbar
-        collapseOnSelect
-        expand="lg"
-        bg="dark"
-        variant="dark"
-        fixed="top"
-        style={{ height: "60px" }}
-      >
-        <Navbar.Toggle
-          aria-controls="responsive-navbar-nav"
-          className="ml-auto"
-        />
+      <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
+        <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
-          <Nav className="mr-auto justify-content-center">
-            {loading ? (
-              <p id="loading">...</p>
-            ) : (
-              navLinks.map((link) => (
-                <Nav.Link href={`/posts/${link.slug}`} key={link.slug}>
-                  {link.slug}
-                </Nav.Link>
-              ))
-            )}
+          <Nav className="mr-auto">
+            {navLinks.map((link) => (
+              <Nav.Link href={`/posts/${link.slug}`} key={link.slug}>
+                {link.slug}
+              </Nav.Link>
+            ))}
           </Nav>
         </Navbar.Collapse>
       </Navbar>
