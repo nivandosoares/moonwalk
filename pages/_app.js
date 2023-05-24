@@ -9,7 +9,6 @@ import { SSRProvider } from 'react-bootstrap';
 function MyApp({ Component, pageProps }) {
   const [theme, setTheme] = useState("light");
 
-  
   useEffect(() => {
     document.body.className = theme;
   }, [theme]);
@@ -20,21 +19,17 @@ function MyApp({ Component, pageProps }) {
   };
 
   return (
-    <SSRProvider>
     <ThemeProvider value={{ theme, toggleTheme }}>
-      <Layout>
-        
-        <div>
+      <SSRProvider>
+        <Layout>
           <Component {...pageProps} />
 
           <button className={`theme-toggle ${theme}`} onClick={toggleTheme}>
             {theme === "light" ? <FiMoon size={24} /> : <FiSun size={24} />}
           </button>
-          </div>
-        
-      </Layout>
-      </ThemeProvider>
+        </Layout>
       </SSRProvider>
+    </ThemeProvider>
   );
 }
 
