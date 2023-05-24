@@ -36,7 +36,7 @@ const Layout = ({ children }) => {
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto justify-content-center">
             {loading ? (
-              <p>Loading...</p>
+              <p id="loading">...</p>
             ) : (
               navLinks.map((link) => (
                 <Nav.Link href={`/posts/${link.slug}`} key={link.slug}>
@@ -52,7 +52,9 @@ const Layout = ({ children }) => {
         style={{ marginTop: "60px" }}
       >
         {loading ? (
-          <p>Loading...</p>
+          <center>
+            <p id="loading">...</p>
+          </center>
         ) : (
           <main
             className={`col-lg-10 d-flex justify-content-center align-items-center`}
