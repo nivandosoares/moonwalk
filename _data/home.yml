@@ -7,21 +7,21 @@ navbar_entries:
 
   - title: website
     url: https://www.nivandosoares.com.br
-    
+
 project_entries:
-  - title: Freelance Project for "Escrituras GJ"
+  - title: Escrituras GJ website
     url: overview-post
     desc: Developed a website serving as a business card for a real estate company, containing their main contact links and services. Implemented using HTML, CSS, and JavaScript. Worked on the project from September 15, 2022, to October 15, 2022.
     highlight: HTML, CSS, JavaScript
 
-  - title: Free ROMS
+  - title: Free ROMS project
     url: overview-post
     desc: Basic CRUD operations in MongoDB database using EJS as the view engine and Node.js Express as the Backend.
     highlight: MongoDB, EJS, Node.js, Express
 
-  - title: caTinder
+  - title: caTinder with catapi
     url: overview-post
-    desc: "Tinder like" layout developed with HTML, CSS, and JavaScript, and populated with images consumed from the catapi REST API.
+    desc: Tinder like layout developed with HTML, CSS, and JavaScript, and populated with images consumed from the catapi REST API.
     highlight: HTML, CSS, JavaScript
 
   - title: Consuming the GitHub API with React
@@ -38,13 +38,30 @@ project_entries:
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
+old_project_entries:
+  - title: Soopr
+    url: https://www.soopr.co
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites
+    highlight: NEW
+
+  - title: Cookie
+    url: https://github.com/abhinavs/cookie
+    desc: An open source landing website with supporting pages and integrated blog
+
+  - title: Moonwalk
+    url: https://github.com/abhinavs/moonwalk
+    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+
+  - title: Humangous
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
+
 footer_entries:
   - title: nivando personal website
-    url: https://www.nivandosoares.com.br
+    url: https://www.nivando.dev
 
   - title: twitter
     url: https://twitter.com/nevandu
 
   - title: github
     url: https://github.com/nivandosoares
-
