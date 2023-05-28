@@ -1,61 +1,45 @@
 navbar_entries:
-  - title: more about
+  - title: about
     url: about
 
   - title: blog
     url: blog
 
   - title: website
-    url: https://www.nivando.dev
-
+    url: https://www.nivandosoares.com.br
 project_entries:
-  - title: Project 1
+  - title: Freelance Project for "Escrituras GJ"
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+    desc: Developed a website serving as a business card for a real estate company, containing their main contact links and services. Implemented using HTML, CSS, and JavaScript. Worked on the project from September 15, 2022, to October 15, 2022.
+    highlight: HTML, CSS, JavaScript
 
-  - title: Project 2
+  - title: Free ROMS
     url: overview-post
-    desc: Projects are shown in card layout
+    desc: Basic CRUD operations in MongoDB database using EJS as the view engine and Node.js Express as the Backend.
+    highlight: MongoDB, EJS, Node.js, Express
 
-  - title: Project 3
+  - title: caTinder
     url: overview-post
-    desc: You can control visibility from _config.yml file
+    desc: "Tinder like" layout developed with HTML, CSS, and JavaScript, and populated with images consumed from the catapi REST API.
+    highlight: HTML, CSS, JavaScript
 
-  - title: Project 4
+  - title: Consuming the GitHub API with React
     url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
+    desc: Project made during the EDUZZ Full Stack Developer Bootcamp.
+    highlight: React, JavaScript
 
-  - title: Project 5
+  - title: COVID 19 data in Apex Charts
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+    desc: Consuming the COVID 19 API Data with JavaScript.
+    highlight: JavaScript, Apex Charts
 
   - title: Project 6
     url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
-
 footer_entries:
   - title: nivando personal website
-    url: https://www.nivando.dev
+    url: https://www.nivandosoares.com.br
 
   - title: twitter
     url: https://twitter.com/nevandu
