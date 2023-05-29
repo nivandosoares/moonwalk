@@ -20,9 +20,9 @@ author: Nivando Soares
 
 - 📝 I regularly write articles on [my blog](https://www.nivando.dev/blog)  
 
-- 📄 Know about my experiences [here](/about)  
+- 📄 Know about my experiences [in this post](/about)  
 
-- 🎨 I also work with *art creation*, *mockups*  and related tasks. **If you're looking for more information about this, you can check out my work [here](https://behance.net/nivandosoares)**
+- 🎨 I also work with *art creation*, *mockups*  and related tasks. **If you're looking for more information about this, you can check out my work [on my Behance portfolio page](https://behance.net/nivandosoares)**
 
   
 
