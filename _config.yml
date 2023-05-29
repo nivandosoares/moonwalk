@@ -8,7 +8,7 @@ permalink: /:slug
 favicon: "./logo.png" # relative path to site's favicon
 
 twitter:
-  username: abhinav # update or delete this
+  username: nevandu # update or delete this
   card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
@@ -29,7 +29,7 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
+    title_projects: Favorite projects
 
 soopr:
   publish_token: "pt_172cc0834f693b1dc857a87c8040f234" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options

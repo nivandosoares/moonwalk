@@ -12,32 +12,32 @@ project_entries:
   - title: Escrituras GJ website
     url: escriturasgj
     desc: Developed a website serving as a business card for a real estate company, containing their main contact links and services. Implemented using HTML, CSS, and JavaScript. Worked on the project from September 15, 2022, to October 15, 2022.
-    highlight: HTML, CSS, JavaScript
+    highlight: Frontend development
 
   - title: Free ROMS project
     url: freeroms
     desc: Basic CRUD operations in MongoDB database using EJS as the view engine and Node.js Express as the Backend.
-    highlight: MongoDB, EJS, Node.js, Express
+    highlight: Fullstack development
 
   - title: caTinder with catapi
     url: catinder
     desc: Tinder like layout developed with HTML, CSS, and JavaScript, and populated with images consumed from the catapi REST API.
-    highlight: HTML, CSS, JavaScript
+    highlight: Frontend development
 
   - title: Consuming the GitHub API with React
     url: Consuming-github-API-with-reactJS
     desc: Project made during the EDUZZ Full Stack Developer Bootcamp.
-    highlight: React, JavaScript
+    highlight: Backend development
 
   - title: COVID 19 data in Apex Charts
     url: apex_charts
     desc: Consuming the COVID 19 API Data with JavaScript.
-    highlight: JavaScript, Apex Charts
+    highlight: Frontend development
 
   - title: NewsApp
     url: newsapp
     desc: A simple app made with flutter that render news from the newsapi.org API.
-    highlight: Flutter, Dart
+    highlight: mobile
 
 footer_entries:
   - title: website ↗
