@@ -26,20 +26,6 @@ hr.page-break {
   &:before { content: '-----' }
   &:after { content: attr(data-content) '-----' }
 }
-.horizontal-list {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content:center;
-  align-items: stretch;
-  list-style: none;
-}
-
-.horizontal-list li {
-  flex-basis: 30%; 
-  padding: 1px; 
-  text-align: center;
-}
 
 p { margin: 1em 0; text-align: center;}
 
