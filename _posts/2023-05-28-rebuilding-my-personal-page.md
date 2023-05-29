@@ -3,7 +3,6 @@ layout: post
 author: Nivando Soares
 title: Why i've decided to rebuild my entire personal page
 ---
-# Simplifying and Enhancing: The Journey of Rewriting My Personal Website in Markdown
 
 ## Introduction:
 
