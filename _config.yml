@@ -32,7 +32,7 @@ theme_config:
     title_projects: Portfolio
 
 soopr:
-  publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
+  publish_token: "pt_172cc0834f693b1dc857a87c8040f234" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 

@@ -1,6 +1,6 @@
 ---
 layout: post
 author: Nivando Soares
-tags: [overview, frontend, html, Javascript]
+tags: [web design, frontend, html, JavaScript]
 ---
 ## Escrituras GJ homepage

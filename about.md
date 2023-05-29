@@ -1,6 +1,7 @@
 ---
 layout: post
 title: More about me
+author: Nivando Soares
 ---
 
 ## 🏆 Certificates
