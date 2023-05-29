@@ -5,7 +5,7 @@ author: Nivando Soares
 ---
 
 
-<h3 align="center">A Fullstack develpment student and graphic designer</h3>
+<h2 align="center">A Fullstack develpment student and graphic designer</h3>
 
 <img class="counter" src="https://visitcount.itsvg.in/api?id=nivandosoares&icon=2&color=12">
 
