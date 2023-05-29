@@ -7,7 +7,7 @@ author: Nivando Soares
 
 <h2 align="center">A Fullstack development student and graphic designer</h2>
 
-<img class="counter" src="https://visitcount.itsvg.in/api?id=nivandosoares&icon=2&color=12">
+<img class="counter" alt="visits counter" src="https://visitcount.itsvg.in/api?id=nivandosoares&icon=2&color=12">
 
 
 

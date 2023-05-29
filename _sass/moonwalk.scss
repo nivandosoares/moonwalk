@@ -1,15 +1,64 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
-html { height: 100%; }
-
+/* Definindo o tamanho da fonte e o espaçamento entre linhas */
 body {
-  font-family:  "Inter", -apple-system, "avenir next", avenir, roboto, noto, ubuntu, "helvetica neue", helvetica, sans-serif;
-  font-size: 1.0rem;
-  line-height: 2;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Ajustando o alinhamento do texto */
+body {
+  text-align: left; /* ou center */
+}
+
+/* Escolhendo uma fonte legível */
+body {
+  font-family: Arial, Helvetica, sans-serif; /* ou qualquer outra fonte de sua preferência */
+}
+
+/* Adicionando margens laterais */
+.page-content {
+  margin: 0 20px; /* ou ajuste o valor conforme necessário */
+}
+
+/* Ajustando o contraste entre cores */
+body {
+  color: #333; /* cor do texto */
+  background-color: #fff; /* cor de fundo */
+  letter-spacing: 0.5px;
   margin: 0;
   min-height: 100%;
 }
+
+/* Adicionando quebras de linha */
+.long-text {
+  white-space: pre-wrap;
+}
+h1,h2{
+  margin-bottom: 10px;
+}
+/* Definindo a hierarquia visual */
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 16px;
+}
+
+/* Espaçamento entre seções */
+.section {
+  margin-bottom: 30px; /* ou ajuste o valor conforme necessário */
+}
+
+html { height: 100%; }
 .soopr{
   display: flex;
   justify-content: center;
