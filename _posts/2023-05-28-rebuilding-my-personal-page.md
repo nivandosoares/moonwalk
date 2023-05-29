@@ -4,30 +4,30 @@ author: Nivando Soares
 title: Why i've decided to rebuild my entire personal page
 ---
 
-## Introduction:
+## Introduction
 
-As a full-stack developer, my passion has always been in backend logic and application development. I must admit that my knowledge in user interface design and CSS development is limited. However, recognizing the importance of accessibility and performance in a website, I decided to embark on a journey of rewriting my old personal website (nivandosoares.com.br) into a text-focused version using Markdown. I would like to share with you the advantages of this approach and how it can improve website accessibility and performance.
+In today's web development landscape, it's common to come across websites filled with visual effects and attention-grabbing features. However, this approach can have its drawbacks, demanding more performance resources and resulting in a quickly tiresome experience for site visitors. In this article, I will share my experience of rewriting my personal website with Markdown, prioritizing performance and focusing on meaningful content.
 
-## Accessibility: Embracing Simplicity
+## The Temptation of Visual Effects and Their Impact on Performance
 
-By rewriting my website in Markdown, I noticed a significant improvement in terms of accessibility. With a focus on text and a well-defined semantic structure, I made my content more accessible to all users, including those who use screen readers. Markdown, being a minimalist format, allows me to focus on the quality of content without worrying about complicated design details.
+It's understandable that many developers are drawn to the impressive visual effects that can be achieved with the latest front-end technologies and libraries. Sophisticated animations, smooth transitions, and interactive elements can indeed capture visitors' attention. However, these features can come at a high cost in terms of performance.
 
-Using Markdown, I can structure my content with appropriate headings, numbered or bulleted lists, and even emphasize words with bold or italic formatting. This clear and semantic structure facilitates content comprehension for all users, regardless of their visual or cognitive abilities.
+The excessive use of heavy animations, large images, and complex libraries can lead to a significant increase in website loading time. Visitors with slower connections or older devices may have a frustrating experience waiting for all resources to load. Additionally, visual fatigue can set in quickly, resulting in lower information retention and faster site abandonment.
 
-## Performance: Lightweight and Speedy
+## Prioritizing Performance and Meaningful Content with Markdown
 
-Another notable advantage of rewriting my website in Markdown was the improvement in performance. As mentioned earlier, my knowledge in CSS and UX design was limited, which resulted in performance optimization challenges on my old website. Heavy images, complex scripts, and elaborate styles negatively impacted the site's loading speed.
+When rewriting my personal website with Markdown, I decided to prioritize performance and focus on delivering meaningful content to visitors. Instead of investing in flashy visual resources, I opted for a more minimalist and content-centered approach.
 
-By adopting Markdown, I experienced the benefits of lightweight and speedy performance. Markdown is a simple and lightweight text format, eliminating the need for complex CSS and JavaScript files for styling and interactivity. This resulted in lighter and faster-loading pages. Additionally, with a minimalist and text-focused design, I reduced the amount of visual content and additional resources, contributing to a smoother and more responsive browsing experience.
+Markdown allowed me to express my ideas and share detailed information in a clear and concise manner. With a well-defined content structure, I was able to organize sections, highlight important points, and provide relevant details about my projects and experiences.
 
-## Focus on What Matters: Content
-
-One of the reasons I chose to rewrite my website in Markdown was to focus on what truly matters: the content. As a full-stack developer with expertise in application development and backend logic, creating a highly stylized and complex website was not my area of expertise.
-
-With Markdown, I can dedicate my time and effort to writing articles, tutorials, and sharing my knowledge without being overly concerned about design and styling details. The simplicity and clarity of Markdown allow my content to shine and be the star of my website.
+Furthermore, by avoiding the excessive use of images and visual effects, I ensured fast page loading times for my website. This resulted in a smoother browsing experience for visitors, without unnecessary distractions and with a focus on the content that truly matters.
 
 ## Conclusion
 
-By rewriting my old personal website in Markdown for a text-focused version, I was able to experience several significant advantages. Enhanced accessibility, improved performance, and the ability to focus on content were the key benefits I gained from this change. While my expertise in design and CSS may be limited, Markdown allowed me to create a more accessible, faster, and content-centric website.
+Through rewriting my personal website with Markdown, I have learned to value performance and meaningful content over flashy visual effects. By prioritizing a more minimalist and content-centered approach, I could offer visitors a seamless browsing experience without compromising the quality of the shared information.
 
-So, if you're a developer who resonates with this situation and is looking for a simplified approach for your personal website, consider giving Markdown a chance. You'll be amazed by the clarity, accessibility, and performance it can bring to your project. After all, we all have different skills and talents, and it's important to find the approach that best suits our needs. Now, excuse me, I need to continue studying backend technologies and leave design and CSS to the experts!
+Markdown has proven to be a powerful and versatile tool for creating structured and easily readable content. By adopting this markup language, I was able to provide detailed and relevant information while maintaining a fast and accessible website.
+
+I invite you to consider the importance of performance and meaningful content in your own web projects. By balancing these aspects, you can deliver an enjoyable and engaging experience to visitors while prioritizing the accessibility and efficiency of your site.
+
+---
