@@ -1,11 +1,11 @@
 navbar_entries:
-  - title: about
+  - title: about ↗
     url: about
 
-  - title: blog
+  - title: blog ↗
     url: blog
 
-  - title: website
+  - title: website ↗
     url: https://www.nivandosoares.com.br
 
 project_entries:
@@ -39,30 +39,12 @@ project_entries:
     desc: A simple app made with flutter that render news from the newsapi.org API.
     highlight: Flutter, Dart
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
-
 footer_entries:
-  - title: nivando personal website
+  - title: website ↗
     url: https://www.nivandosoares.com.br
 
-  - title: twitter
+  - title: twitter ↗
     url: https://twitter.com/nevandu
 
-  - title: github
+  - title: github ↗
     url: https://github.com/nivandosoares

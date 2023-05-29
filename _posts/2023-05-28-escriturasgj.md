@@ -1,6 +1,6 @@
 ---
 layout: post
 author: Nivando Soares
-tags: [overview, frontend]
+tags: [overview, frontend, html, Javascript]
 ---
-## <h1 style="center";> Escrituras GJ homepage
+## Escrituras GJ homepage

@@ -1,11 +1,7 @@
 ---
 layout: post
-title: More about me
 ---
 
----
-layout: post
----
 ## 🏆 Certificates
 
 - JavaScript Basic Certification - HackerRank

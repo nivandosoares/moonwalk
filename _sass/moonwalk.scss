@@ -15,7 +15,7 @@ pre, code {
   font-size: 0.9rem;
 }
 
-h2, h3, h4, h5 { margin-top: 1.5em; }
+h1, h2, h3, h4, h5 { margin-top: 1.5em; text-align: center;}
 
 hr { margin: 1em 0; }
 
@@ -26,10 +26,23 @@ hr.page-break {
   &:before { content: '-----' }
   &:after { content: attr(data-content) '-----' }
 }
+.horizontal-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content:center;
+  align-items: stretch;
+  list-style: none;
+}
 
-p { margin: 1em 0; }
+.horizontal-list li {
+  flex-basis: 30%; 
+  padding: 1px; 
+  text-align: center;
+}
 
-li { margin: 0.4em 0; }
+p { margin: 1em 0; text-align: center;}
+
 
 .w {
   max-width: 720px;
@@ -114,6 +127,9 @@ blockquote {
 }
 a {
   color: var(--links);
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
 }
 *:target { background-color: var(--bg-secondary); }
 
@@ -196,6 +212,7 @@ p code, li code {
     color: var(--text);
     text-decoration: none;
     font-weight: bold;
+    text-align: center;
   }
   a:hover {
     color: var(--links);
