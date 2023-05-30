@@ -8,10 +8,10 @@ author: Nivando Soares
 
 
 
-**Freelancer - Escrituras GJ**
-*September 15, 2022 - October 15, 2022*
+- **Freelancer - Escrituras GJ**
 
->
+  > *September 15, 2022 - October 15, 2022*
+
 >
 >- Developed a website for Escrituras GJ, a real estate company, to serve as a digital business card and showcase their main contact information and services.
 >- Utilized HTML, CSS, and JavaScript to create a visually appealing and interactive website.
@@ -24,8 +24,9 @@ author: Nivando Soares
 
 
 
-**Freelancer - Matsuri Trade Importação e Comércio Ltda**
-*February 2022 - March 2022*
+- **Freelancer - Matsuri Trade Importação e Comércio Ltda**
+
+  > *February 2022 - March 2022*
 
 >
 >
