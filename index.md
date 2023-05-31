@@ -92,7 +92,7 @@ author: Nivando Soares
 - 🏅 ![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-%230175C2.svg?style=flat&logo=agile&logoColor=white)
 - 🏅 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 - 🏅 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-- 🏅 ![GIT](https://img.shields.io/badge/GIT-%23F05032.svg?style=flat&logo=git&logoColor=white)
+- 🏅 ![GIT](https://img.shields.io/badge/GIT%20Version%20Control-%23F05032.svg?style=flat&logo=git&logoColor=white)
 - 🏅 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 -  🏅 ![OOP](https://img.shields.io/badge/Object Oriented Programming-%230769AD.svg?style=flat&)
 
