@@ -81,11 +81,11 @@ author: Nivando Soares
 
 ### ⭐ I am proudly certified after LinkedIn skill assessments in the following technologies:
 
-- 🏅 C Language: ![C Language](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-- 🏅 MongoDB: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-- 🏅 HTML: ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-- 🏅 JavaScript: ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-- 🏅 Node.js: ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+- 🏅  ![C Language](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+- 🏅  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+- 🏅 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+- 🏅  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+- 🏅  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 - 🏅 FrontEnd Development: ![FrontEnd Development](https://img.shields.io/badge/FrontEnd%20Development-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 - 🏅 CSS: ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 - 🏅 React JS: ![React JS](https://img.shields.io/badge/React%20JS-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
