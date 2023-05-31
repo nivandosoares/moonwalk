@@ -86,14 +86,14 @@ author: Nivando Soares
 - 🏅 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 - 🏅  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 - 🏅  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-- 🏅 FrontEnd Development: ![FrontEnd Development](https://img.shields.io/badge/FrontEnd%20Development-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-- 🏅 CSS: ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-- 🏅 React JS: ![React JS](https://img.shields.io/badge/React%20JS-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
-- 🏅 Agile Methodologies: ![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-%230175C2.svg?style=flat&logo=agile&logoColor=white)
-- 🏅 Linux: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-- 🏅 MySQL: ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-- 🏅 GIT: ![GIT](https://img.shields.io/badge/GIT-%23F05032.svg?style=flat&logo=git&logoColor=white)
-- 🏅 jQuery: ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+- 🏅 ![FrontEnd Development](https://img.shields.io/badge/FrontEnd%20Development-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+- 🏅 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+- 🏅 ![React JS](https://img.shields.io/badge/React%20JS-%2361DAFB.svg?style=flat&logo=react&logoColor=white)
+- 🏅 ![Agile Methodologies](https://img.shields.io/badge/Agile%20Methodologies-%230175C2.svg?style=flat&logo=agile&logoColor=white)
+- 🏅 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- 🏅 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+- 🏅 ![GIT](https://img.shields.io/badge/GIT-%23F05032.svg?style=flat&logo=git&logoColor=white)
+- 🏅 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 
 ### Thank you for reading this far! Below, you can read more about some of my favorite projects. 👇
 
