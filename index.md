@@ -81,7 +81,7 @@ author: Nivando Soares
 
 ### ⭐ I am proudly certified after LinkedIn skill assessments in the following technologies:
 
-- 🏅  ![C Language](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+- 🏅  ![C Language](https://img.shields.io/badge/C programming language-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 - 🏅  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 - 🏅 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 - 🏅  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
@@ -94,6 +94,7 @@ author: Nivando Soares
 - 🏅 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 - 🏅 ![GIT](https://img.shields.io/badge/GIT-%23F05032.svg?style=flat&logo=git&logoColor=white)
 - 🏅 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+-  🏅 ![OOP](https://img.shields.io/badge/Object Oriented Programming-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 
 ### Thank you for reading this far! Below, you can read more about some of my favorite projects. 👇
 
