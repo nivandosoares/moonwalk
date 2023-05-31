@@ -94,7 +94,7 @@ author: Nivando Soares
 - 🏅 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 - 🏅 ![GIT](https://img.shields.io/badge/GIT-%23F05032.svg?style=flat&logo=git&logoColor=white)
 - 🏅 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
--  🏅 ![OOP](https://img.shields.io/badge/Object Oriented Programming-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
+-  🏅 ![OOP](https://img.shields.io/badge/Object Oriented Programming-%230769AD.svg?style=flat&)
 
 ### Thank you for reading this far! Below, you can read more about some of my favorite projects. 👇
 
