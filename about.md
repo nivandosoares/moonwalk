@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /about
+permalink: /about/
 title: More about me
 author: Nivando Soares
 ---
