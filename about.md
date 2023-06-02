@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink:
 title: More about me
 author: Nivando Soares
 ---
