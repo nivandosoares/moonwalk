@@ -1,9 +1,9 @@
 title: Nivando Soares
 author: Nivando Soares
 url: https://www.nivando.dev # root address of the site
-description: > # description of the site (multiple lines allowed)
+description: > a full stack development student and graphic designe # description of the site (multiple lines allowed)
 
-permalink: /:slug
+permalink: /:year/:month/:day/:slug:output_ext
 
 favicon: "./logo.png" # relative path to site's favicon
 
