@@ -1,9 +1,9 @@
 title: Nivando Soares
 author: Nivando Soares
 url: https://www.nivando.dev # root address of the site
-description: > a full stack development student and graphic designe # description of the site (multiple lines allowed)
+description: > a full stack development student and graphic designer # description of the site (multiple lines allowed)
 
-permalink: /:year/:month/:day/:slug:output_ext
+permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
@@ -17,7 +17,7 @@ remote_theme: abhinavs/moonwalk
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
-  back_home_text: "< Home" # customize text for homepage link in post layout
+  back_home_text: "<-Home" # customize text for homepage link in post layout
   date_format: "%d-%m-%Y" # customize how date is formatted
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
