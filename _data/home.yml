@@ -7,7 +7,6 @@ navbar_entries:
 
   - title: website ↗
     url: https://www.nivandosoares.com.br
-  
 
 project_entries:
   - title: Escrituras GJ website
@@ -49,6 +48,3 @@ footer_entries:
 
   - title: github ↗
     url: https://github.com/nivandosoares
-
-- title: resume ↗
-    url: #
