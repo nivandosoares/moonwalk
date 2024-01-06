@@ -12,7 +12,7 @@ author: Nivando Soares
 
 
 
-- 🔭 I’m currently working on a  [Node JS championship manager](/my-club)  
+- 🔭 I’m currently working on a  [Scheduling System for a Educational Institute](https://github.com/nivandosoares/sages)  
 
 - 🌱 I’m currently learning **Cloud computing, Redis, Java, postgreSQL, Next JS, Docker, Python, Flutter and React native**  
 
@@ -95,8 +95,8 @@ author: Nivando Soares
 - 🏅 ![GIT](https://img.shields.io/badge/GIT%20Version%20Control-%23F05032.svg?style=flat&logo=git&logoColor=white)
 - 🏅 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat&logo=jquery&logoColor=white)
 -  🏅 ![OOP](https://img.shields.io/badge/Object Oriented Programming-%230769AD.svg?style=flat&)
--  ![Windows Bash](https://img.shields.io/badge/Windows Bash-%230769AD.svg?style=flat&color=yellow)
--  ![IT Operations](https://img.shields.io/badge/IT Operations-%230769AD.svg?style=flat&color=red)
+- 🏅 ![Windows Bash](https://img.shields.io/badge/Windows Bash-%230769AD.svg?style=flat&color=yellow)
+- 🏅 ![IT Operations](https://img.shields.io/badge/IT Operations-%230769AD.svg?style=flat&color=red)
 
 ### Thank you for reading this far! Below, you can read more about some of my favorite projects. 👇
 
