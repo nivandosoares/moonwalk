@@ -7,7 +7,23 @@ author: Nivando Soares
 
 ## 💼 Experiences
 
+**Freelancer - Grupo Cometa de Educação**
+*November, 2023 - January, 2024*
 
+- Designed and implemented a management system for scheduling and event requests in a shared auditorium within a multi-institutional environment.
+- Utilized Node.js, MongoDB, Express, and EJS as primary technologies, following the MVC architecture for an organized and modular structure.
+- Collaborated closely with various institutions to understand their specific needs and translated these requirements into system features.
+- Developed an intuitive administration panel using EJS for page rendering, providing a user-friendly experience for end-users.
+- Implemented scheduling features, allowing users to reserve specific dates and times for events in the auditorium.
+- Used MongoDB for efficient data storage, ensuring quick retrieval and manipulation of information.
+- Integrated the system with authentication to ensure the security and privacy of user data.
+- Configured efficient e-mail notifications with nodemailer and a SMTP server.
+- Configured efficient routes in Express for easy navigation between different sections of the system.
+- Adopted asynchronous programming practices in Node.js to optimize system performance, especially during intensive database operations.
+- Ensured system scalability to accommodate future requirements and expansions.
+- Thoroughly tested all features to deliver a bug-free and high-quality product.
+- Documented the source code extensively and provided basic training to the client's technical team.
+- Successfully met project deadlines and delivered an operational system that fully met client expectations.
 
 **Freelancer - Escrituras GJ**
 
@@ -45,6 +61,7 @@ author: Nivando Soares
 
 ## 📜 Certificates
 
+- NDG Linux Essentials English 0323 cga - Cisco Network Academy, 70H
 - JavaScript Basic Certification - HackerRank
 - Quality Assurance Developer Certification - Freecodecamp.org, 300H
 - Bootcamp EDUZZ Full Stack Developer - Digital Innovation One, 95H
