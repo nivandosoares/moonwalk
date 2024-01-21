@@ -8,6 +8,7 @@ author: Nivando Soares
 ## 💼 Experiences
 
 **Freelancer - Grupo Cometa de Educação**
+
 *November, 2023 - January, 2024*
 
 - Designed and implemented a management system for scheduling and event requests in a shared auditorium within a multi-institutional environment.
