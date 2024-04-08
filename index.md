@@ -12,7 +12,7 @@ author: Nivando Soares
 
 
 
-- 🔭 I’m recently published a [Chrome Web Extension](https://chromewebstore.google.com/detail/colaborar-a+/aigpjgbdkakibodbblbjfnnbgaajkbpn?hl=en-US&utm_source=ext_sidebar)  
+- 🔭 I’ve recently published a [Chrome Web Extension](https://chromewebstore.google.com/detail/colaborar-a+/aigpjgbdkakibodbblbjfnnbgaajkbpn?hl=en-US&utm_source=ext_sidebar)  
 
 - 🌱 I’m currently learning **Cloud computing, Redis, Java, postgreSQL, Next JS, Docker, Python, Flutter and React native**  
 
