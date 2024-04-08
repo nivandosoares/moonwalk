@@ -7,6 +7,16 @@ author: Nivando Soares
 
 ## 💼 Experiences
 
+**Personal Project - Unopar Chrome Extension Developer**
+*March 2024 - April 1024* 
+- Developed and launched 'Colaborar A+', a Chrome extension designed to help UNOPAR students to easily get the activities from the educational platform. Available on the Chrome Web Store.
+- Engineered features that streamline workflow processes and improve students on getting info from the educational platform.
+- Implemented robust, secure background scripts using JavaScript to handle real-time data.
+- Managed the extension's lifecycle, from initial concept, design, development, to deployment and ongoing maintenance.
+- Utilized Google Analytics within the extension to track user engagement and gather feedback for continuous improvement.
+- Ensured compliance with Chrome Web Store policies, leading to successful publication and positive user ratings.
+
+
 **Freelancer - Grupo Cometa de Educação**
 
 *November, 2023 - January, 2024*
