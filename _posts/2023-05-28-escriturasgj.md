@@ -5,6 +5,8 @@ tags: [web design, frontend, html, JavaScript]
 ---
 **Freelance Project: Creating a Website for Escrituras GJ - A Digital Business Card for a Real Estate Company**
 
+[Live Preview](https://escriturasgj-he4ktavid-nivandosoares.vercel.app/)
+
 I had the opportunity to work on an exciting freelance project for Escrituras GJ, a prominent real estate company. The objective was to develop a website that would serve as a digital business card, providing essential information about the company, including their main contact links and services. It was a rewarding experience where I could showcase my skills in HTML, CSS, and JavaScript to deliver a visually appealing and interactive website.
 
 The project spanned from September 15, 2022, to October 15, 2022, allowing me ample time to understand the client's requirements and translate them into a functional design. Collaborating closely with the team at Escrituras GJ, I ensured that every aspect of the website reflected their brand identity and conveyed professionalism to their potential clients.

@@ -2,40 +2,40 @@ navbar_entries:
   - title: about ↗
     url: about
 
-  - title: blog ↗
-    url: blog
+  - title: github ↗
+    url: https://github.com/nivandosoares
 
   - title: linkedin ↗
     url: https://www.linkedin.com/in/nivando
 
 project_entries:
   - title: Escrituras GJ website
-    url: escriturasgj
+    url: https://escriturasgj-he4ktavid-nivandosoares.vercel.app/
     desc: Developed a website serving as a business card for a real estate company, containing their main contact links and services. Implemented using HTML, CSS, and JavaScript. Worked on the project from September 15, 2022, to October 15, 2022.
     highlight: Frontend development
 
   - title: Free ROMS project
-    url: freeroms
+    url: https://nodegames.onrender.com/
     desc: Basic CRUD operations in MongoDB database using EJS as the view engine and Node.js Express as the Backend.
     highlight: Fullstack development
 
   - title: caTinder with catapi
-    url: catinder
+    url: https://catinder.vercel.app/
     desc: Tinder like layout developed with HTML, CSS, and JavaScript, and populated with images consumed from the catapi REST API.
     highlight: Frontend development
 
   - title: Consuming the GitHub API with React
-    url: Consuming-github-API-with-reactJS
+    url: https://github-api-interface-dio.vercel.app/
     desc: Project made during the EDUZZ Full Stack Developer Bootcamp.
     highlight: Backend development
 
-  - title: COVID 19 data in Apex Charts
-    url: apex_charts
-    desc: Consuming the COVID 19 API Data with JavaScript.
-    highlight: Frontend development
+  - title: SAGES
+    url: https://cometa.onrender.com/
+    desc: A shceduling app made with Node.js, Express, and MongoDB.
+    highlight: Fullstack development
 
-  - title: NewsApp
-    url: newsapp
+  - title: Unopar crawler web extension project
+    url: https://chromewebstore.google.com/detail/colaborar-a+/aigpjgbdkakibodbblbjfnnbgaajkbpn?hl=en-US&utm_source=ext_sidebar
     desc: A simple app made with flutter that render news from the newsapi.org API.
     highlight: mobile
 

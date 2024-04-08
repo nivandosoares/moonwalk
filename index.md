@@ -18,8 +18,6 @@ author: Nivando Soares
 
 - 👨‍💻 All of my projects are available at [my github](https://github.com/nivandosoares)  
 
-- 📝 I regularly write articles on [my blog](https://www.nivando.dev/blog)  
-
 - 📄 Know about my experiences [in this post](/about)  
 
 - 🎨 I also work with *art creation*, *mockups*  and related tasks. **If you're looking for more information about this, you can check out my work [on my Behance portfolio page](https://behance.net/nivandosoares)**
