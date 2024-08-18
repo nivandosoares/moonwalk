@@ -15,7 +15,7 @@ project_entries:
     highlight: Frontend development
 
   - title: Free ROMS project
-    url: https://nodegames.onrender.com/
+    url: https://free-roms.fly.dev/
     desc: Basic CRUD operations in MongoDB database using EJS as the view engine and Node.js Express as the Backend.
     highlight: Fullstack development
 
@@ -30,7 +30,7 @@ project_entries:
     highlight: Backend development
 
   - title: SAGES
-    url: https://cometa.onrender.com/
+    url: https://cometa.fly.dev/
     desc: A shceduling app made with Node.js, Express, and MongoDB.
     highlight: Fullstack development
 
