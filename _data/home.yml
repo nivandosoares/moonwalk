@@ -36,7 +36,7 @@ project_entries:
 
   - title: Unopar crawler web extension project
     url: https://chromewebstore.google.com/detail/colaborar-a+/aigpjgbdkakibodbblbjfnnbgaajkbpn?hl=en-US&utm_source=ext_sidebar
-    desc: A simple app made with flutter that render news from the newsapi.org API.
+    desc: A Chrome extension designed to help UNOPAR students to easily get the activities from the educational platform. Available on the Chrome Web Store.
     highlight: mobile
 
 footer_entries:
